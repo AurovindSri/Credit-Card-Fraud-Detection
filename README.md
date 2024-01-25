@@ -1,0 +1,1 @@
+Conducted Exploratory Data Analysis (EDA) and employed Principal Component Analysis (PCA) for dimensionality reduction, facilitating visualization of the data in both 2D and 3D to derive insightful patterns.
